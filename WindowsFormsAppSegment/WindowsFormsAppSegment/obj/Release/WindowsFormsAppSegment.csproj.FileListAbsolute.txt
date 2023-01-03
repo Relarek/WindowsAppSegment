@@ -1,0 +1,11 @@
+T:\Универ\КИТ\WindowsFormsAppSegment\WindowsFormsAppSegment\WindowsFormsAppSegment\bin\Release\WindowsFormsAppSegment.exe.config
+T:\Универ\КИТ\WindowsFormsAppSegment\WindowsFormsAppSegment\WindowsFormsAppSegment\bin\Release\WindowsFormsAppSegment.exe
+T:\Универ\КИТ\WindowsFormsAppSegment\WindowsFormsAppSegment\WindowsFormsAppSegment\bin\Release\WindowsFormsAppSegment.pdb
+T:\Универ\КИТ\WindowsFormsAppSegment\WindowsFormsAppSegment\WindowsFormsAppSegment\obj\Release\WindowsFormsAppSegment.csproj.AssemblyReference.cache
+T:\Универ\КИТ\WindowsFormsAppSegment\WindowsFormsAppSegment\WindowsFormsAppSegment\obj\Release\WindowsFormsAppSegment.csproj.SuggestedBindingRedirects.cache
+T:\Универ\КИТ\WindowsFormsAppSegment\WindowsFormsAppSegment\WindowsFormsAppSegment\obj\Release\WindowsFormsAppSegment.Form1.resources
+T:\Универ\КИТ\WindowsFormsAppSegment\WindowsFormsAppSegment\WindowsFormsAppSegment\obj\Release\WindowsFormsAppSegment.Properties.Resources.resources
+T:\Универ\КИТ\WindowsFormsAppSegment\WindowsFormsAppSegment\WindowsFormsAppSegment\obj\Release\WindowsFormsAppSegment.csproj.GenerateResource.cache
+T:\Универ\КИТ\WindowsFormsAppSegment\WindowsFormsAppSegment\WindowsFormsAppSegment\obj\Release\WindowsFormsAppSegment.csproj.CoreCompileInputs.cache
+T:\Универ\КИТ\WindowsFormsAppSegment\WindowsFormsAppSegment\WindowsFormsAppSegment\obj\Release\WindowsFormsAppSegment.exe
+T:\Универ\КИТ\WindowsFormsAppSegment\WindowsFormsAppSegment\WindowsFormsAppSegment\obj\Release\WindowsFormsAppSegment.pdb

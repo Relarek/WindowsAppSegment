@@ -1,0 +1,29 @@
+D:\Users\Lar\Documents\Private\RUDN\3 КЗ\Projects\WindowsFormsAppSegment\WindowsFormsAppSegment\bin\Debug\WindowsFormsAppSegment.exe.config
+D:\Users\Lar\Documents\Private\RUDN\3 КЗ\Projects\WindowsFormsAppSegment\WindowsFormsAppSegment\bin\Debug\WindowsFormsAppSegment.exe
+D:\Users\Lar\Documents\Private\RUDN\3 КЗ\Projects\WindowsFormsAppSegment\WindowsFormsAppSegment\bin\Debug\WindowsFormsAppSegment.pdb
+D:\Users\Lar\Documents\Private\RUDN\3 КЗ\Projects\WindowsFormsAppSegment\WindowsFormsAppSegment\obj\Debug\WindowsFormsAppSegment.csproj.AssemblyReference.cache
+D:\Users\Lar\Documents\Private\RUDN\3 КЗ\Projects\WindowsFormsAppSegment\WindowsFormsAppSegment\obj\Debug\WindowsFormsAppSegment.Form1.resources
+D:\Users\Lar\Documents\Private\RUDN\3 КЗ\Projects\WindowsFormsAppSegment\WindowsFormsAppSegment\obj\Debug\WindowsFormsAppSegment.Properties.Resources.resources
+D:\Users\Lar\Documents\Private\RUDN\3 КЗ\Projects\WindowsFormsAppSegment\WindowsFormsAppSegment\obj\Debug\WindowsFormsAppSegment.csproj.GenerateResource.cache
+D:\Users\Lar\Documents\Private\RUDN\3 КЗ\Projects\WindowsFormsAppSegment\WindowsFormsAppSegment\obj\Debug\WindowsFormsAppSegment.csproj.CoreCompileInputs.cache
+D:\Users\Lar\Documents\Private\RUDN\3 КЗ\Projects\WindowsFormsAppSegment\WindowsFormsAppSegment\obj\Debug\WindowsFormsAppSegment.exe
+D:\Users\Lar\Documents\Private\RUDN\3 КЗ\Projects\WindowsFormsAppSegment\WindowsFormsAppSegment\obj\Debug\WindowsFormsAppSegment.pdb
+C:\Users\jrocky\Documents\Study\Когнитивные информационные технологии в искусственном интеллекте\laba5_kardashevskiy\WindowsFormsAppSegment\WindowsFormsAppSegment\bin\Debug\WindowsFormsAppSegment.exe.config
+C:\Users\jrocky\Documents\Study\Когнитивные информационные технологии в искусственном интеллекте\laba5_kardashevskiy\WindowsFormsAppSegment\WindowsFormsAppSegment\bin\Debug\WindowsFormsAppSegment.exe
+C:\Users\jrocky\Documents\Study\Когнитивные информационные технологии в искусственном интеллекте\laba5_kardashevskiy\WindowsFormsAppSegment\WindowsFormsAppSegment\bin\Debug\WindowsFormsAppSegment.pdb
+C:\Users\jrocky\Documents\Study\Когнитивные информационные технологии в искусственном интеллекте\laba5_kardashevskiy\WindowsFormsAppSegment\WindowsFormsAppSegment\obj\Debug\WindowsFormsAppSegment.csproj.AssemblyReference.cache
+C:\Users\jrocky\Documents\Study\Когнитивные информационные технологии в искусственном интеллекте\laba5_kardashevskiy\WindowsFormsAppSegment\WindowsFormsAppSegment\obj\Debug\WindowsFormsAppSegment.csproj.SuggestedBindingRedirects.cache
+C:\Users\jrocky\Documents\Study\Когнитивные информационные технологии в искусственном интеллекте\laba5_kardashevskiy\WindowsFormsAppSegment\WindowsFormsAppSegment\obj\Debug\WindowsFormsAppSegment.Form1.resources
+C:\Users\jrocky\Documents\Study\Когнитивные информационные технологии в искусственном интеллекте\laba5_kardashevskiy\WindowsFormsAppSegment\WindowsFormsAppSegment\obj\Debug\WindowsFormsAppSegment.Properties.Resources.resources
+C:\Users\jrocky\Documents\Study\Когнитивные информационные технологии в искусственном интеллекте\laba5_kardashevskiy\WindowsFormsAppSegment\WindowsFormsAppSegment\obj\Debug\WindowsFormsAppSegment.csproj.GenerateResource.cache
+C:\Users\jrocky\Documents\Study\Когнитивные информационные технологии в искусственном интеллекте\laba5_kardashevskiy\WindowsFormsAppSegment\WindowsFormsAppSegment\obj\Debug\WindowsFormsAppSegment.csproj.CoreCompileInputs.cache
+C:\Users\jrocky\Documents\Study\Когнитивные информационные технологии в искусственном интеллекте\laba5_kardashevskiy\WindowsFormsAppSegment\WindowsFormsAppSegment\obj\Debug\WindowsFormsAppSegment.exe
+C:\Users\jrocky\Documents\Study\Когнитивные информационные технологии в искусственном интеллекте\laba5_kardashevskiy\WindowsFormsAppSegment\WindowsFormsAppSegment\obj\Debug\WindowsFormsAppSegment.pdb
+T:\Универ\КИТ\WindowsFormsAppSegment\WindowsFormsAppSegment\obj\Debug\WindowsFormsAppSegment.csproj.AssemblyReference.cache
+T:\Универ\КИТ\WindowsFormsAppSegment\WindowsFormsAppSegment\obj\Debug\WindowsFormsAppSegment.csproj.SuggestedBindingRedirects.cache
+T:\Универ\КИТ\WindowsFormsAppSegment\WindowsFormsAppSegment\obj\Debug\WindowsFormsAppSegment.Form1.resources
+T:\Универ\КИТ\WindowsFormsAppSegment\WindowsFormsAppSegment\obj\Debug\WindowsFormsAppSegment.Properties.Resources.resources
+T:\Универ\КИТ\WindowsFormsAppSegment\WindowsFormsAppSegment\obj\Debug\WindowsFormsAppSegment.csproj.GenerateResource.cache
+T:\Универ\КИТ\WindowsFormsAppSegment\WindowsFormsAppSegment\obj\Debug\WindowsFormsAppSegment.csproj.CoreCompileInputs.cache
+T:\Универ\КИТ\WindowsFormsAppSegment\WindowsFormsAppSegment\obj\Debug\WindowsFormsAppSegment.exe
+T:\Универ\КИТ\WindowsFormsAppSegment\WindowsFormsAppSegment\obj\Debug\WindowsFormsAppSegment.pdb
